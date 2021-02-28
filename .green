@@ -1,0 +1,5 @@
+verbose = 1
+logging = True
+termcolor = False
+run-coverage = True
+omit-patterns = .eggs/*
